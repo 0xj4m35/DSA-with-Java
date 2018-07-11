@@ -1,0 +1,33 @@
+Please modify the program and add the suitable try-catch statement(s) so to cope with the following exceptions:
+
+NumberFormatException: an exception of this kind means that the datum returned by in.readLine() does not represent an integer. If this occurs, the user should be asked to reenter the datum and continue.
+
+Example of session:
+
+Do you wish to calculate a sum? (y/n)
+y
+Please input the sequence of integers to sum, terminated by a 0
+20              
+5
+a
+Invalid number. Please reenter.
+2
+0
+The sum is 27
+Do you wish to calculate another sum? (y/n)
+s
+Please input y or n
+y
+Please input the sequence of integers to sum, terminated by a 0
+870
+30
+0
+The sum is 900
+Do you wish to calculate another sum? (y/n)
+y    
+Please input the sequence of integers to sum, terminated by a 0
+0
+The sum is 0
+Do you wish to calculate another sum? (y/n)
+n
+Goodbye

@@ -1,0 +1,13 @@
+TEST CASE 2
+INPUT:
+manager
+thefox@
+2
+OUTPUT:
+fox@
+REMOVE_SPACES:
+NO
+CASE_SENSITIVE:
+YES
+MARK:
+1.0

@@ -1,0 +1,3 @@
+house=Ngôi nhà
+student=Sinh viên
+car=Ô tô
